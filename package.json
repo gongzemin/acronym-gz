@@ -1,0 +1,17 @@
+{
+  "name": "acronym-gz",
+  "version": "1.0.1",
+  "description": "",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "gzmin <andersonmingz@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gongzemin/acronym-gz.git"
+  }
+}
